@@ -1,0 +1,14 @@
+{"0" : {
+	"eccentricity" : 1.75,
+	"form_factor" : 0.16639716589665596,
+	"major_axis_length" : 42,
+	"area" : 611,
+	"centroid_variation" : -778.2843450479234,
+	"solidity" : 0.06518028589716236,
+	"eq_dia" : 87.6244968337819,
+	"perimeter" : 214.80905008867762,
+	"roudness" : 101.66866836285679,
+	"radius" : 43.81224841689095,
+	"minor_axis_length" : 24
+},
+}

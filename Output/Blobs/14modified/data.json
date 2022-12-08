@@ -1,0 +1,27 @@
+{"0" : {
+	"eccentricity" : 1.6176470588235294,
+	"form_factor" : 0.22527595462322653,
+	"major_axis_length" : 55,
+	"area" : 1478,
+	"centroid_variation" : 76.9133381981871,
+	"solidity" : -7.697916666666667,
+	"eq_dia" : 136.28314557575658,
+	"perimeter" : 287.1340718201168,
+	"roudness" : 332.9578609331288,
+	"radius" : 68.14157278787829,
+	"minor_axis_length" : 34
+},
+"1" : {
+	"eccentricity" : 1.1111111111111112,
+	"form_factor" : 0.20723284839114228,
+	"major_axis_length" : 110,
+	"area" : 7122,
+	"centroid_variation" : -30.60904633727304,
+	"solidity" : 0.6543249575083835,
+	"eq_dia" : 299.1616478017629,
+	"perimeter" : 657.1683187738131,
+	"roudness" : 1475.9123462417153,
+	"radius" : 149.58082390088146,
+	"minor_axis_length" : 99
+},
+}
